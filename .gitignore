@@ -26,4 +26,6 @@ hs_err_pid*
 .project
 .settings
 .metadata
+.classpath
+target
 Servers
